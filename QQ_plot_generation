@@ -3,7 +3,7 @@
 #####################
 
 # Extract in bash the column with p-values to perform qq-plots. In this case, the comand in bash is:
-awk '{print $9}'  > pvalue_for_your_variable.txt
+awk '{print $9}' fisher_test_of_proportions_based_on_your_variable > pvalue_for_your_variable.txt
 
 # Then, we load in R the p-values list. 
 path <- setwd("path_of_your_pvalue_for_your_variable.txt")
@@ -11,7 +11,7 @@ file <- "pvalue_for_your_variable.txt"
 
 pvals <- read.table("pvalue_mortality.txt", header=T)
 
-# We need to know the name of the column for p-values (in this case, the name is "p").
+# It is needed to know the name of the column for p-values (in this case, the name is "p").
 observed <- sort(pvals$p)
 lobs <- -(log10(observed))
 
