@@ -2,6 +2,7 @@
 #     TEST OF PROPORTIONS (FISHER)      #
 #########################################
 
+# This script was buildt for R enviroment
 # Remove any previous loaded objects
 rm(list = ls())
 
