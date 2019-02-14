@@ -2,6 +2,7 @@
 #   GET THE VCF EXPANDED    #
 #############################
 
+# This script was buildt for R enviroment
 # A vcf expanded with the number of individuals with each variant (SNV and indels) is needed. Previously, we make a recoded vcf where individuals with 0/1 or 1/0 or 1/1 are codified as "1". Individuals with 0/0 are codified as "0" and individuals without data for that variant (./.) are codified as "NA"
 
 # Remove any previous loaded objects
