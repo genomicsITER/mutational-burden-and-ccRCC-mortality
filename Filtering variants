@@ -1,0 +1,14 @@
+# Filtering germline variants
+
+# For ANNOVAR annotation of VCF using ExAC, avsnp150 and dbSNP:
+table_annovar.pl VEP_Germinal.vcf /data/d2/jlorsal/ANNOVAR/humandb \
+  -buildver hg19 \
+  -out VEP_Germinal.annotated \
+  -remove \
+  -protocol exac03,avsnp150,dbnsfp33a \
+  -operation f,f,f \
+  -nastring . \
+  -vcfinput
+
+# For filtering variants without annotation in ExAc: 
+grep -v "^#" VEP_Germinal.annotated.hg19_multianno.vcf | grep -vE "ExAC_ALL=\.;ExAC_AFR=\.;ExAC_AMR=\.;ExAC_EAS=\.;ExAC_FIN=\.;ExAC_NFE=\.;ExAC_OTH=\.;ExAC_SAS=\.;" > VEP_Germinal.annotated.hg19_multianno.ExAC.vcf
