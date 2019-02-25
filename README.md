@@ -11,3 +11,9 @@ Somatypus, a computational pipeline built upon the Platypus variant caller, was 
 
 
 A gene-based burden of putative somatic mutations was calculated, and mutation enrichment assessed using Fisher’s exact test.
+
+
+
+
+
+Funding: This study was funded by Fundación CajaCanarias (SALUCAN11). AMA was supported by a fellowship from CajaSiete-ULL. BGG was supported by a fellowship from the Canarian Agency for Research, Innovation and Information Society (ACIISI, grant number TESIS2015010057) co-funded by the European Social Fund (ESF).
