@@ -1,3 +1,7 @@
+##############################################################
+#     MUTATIONAL SIGNATURE ANALYSIS WITH SIGFIT v.1.1.0      #
+##############################################################
+
 # Mutational signature analysis using sigfit (v1.1.0)
 # https://github.com/kgori/sigfit
 
