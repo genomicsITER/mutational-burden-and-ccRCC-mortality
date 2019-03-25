@@ -17,3 +17,8 @@ A gene-based burden of putative somatic mutations was calculated, and mutation e
 
 
 Funding: This study was funded by Fundación CajaCanarias (SALUCAN11). AMA was supported by a fellowship from CajaSiete-ULL. BGG was supported by a fellowship from the Canarian Agency for Research, Innovation and Information Society (ACIISI, grant number TESIS2015010057) co-funded by the European Social Fund (ESF).
+
+
+
+For more details, please see the study article.
+Mendoza-Alvarez, A., Guillen-Guio, B., Baez-Ortega, A., Hernandez-Perez, C., Lakhwani-Lakhwani, S., Maeso, MDC., Lorenzo-Salazar, J.M., Morales, M., and Flores, C. Whole-exome sequencing identifies somatic mutation associated with mortality in metastatic clear cell kidney carcinoma.
