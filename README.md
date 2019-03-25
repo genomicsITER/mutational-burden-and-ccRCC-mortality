@@ -20,5 +20,5 @@ Funding: This study was funded by Fundación CajaCanarias (SALUCAN11). AMA was s
 
 
 
-For more details, please see the study article.
+# For more details, please see the study article.
 Mendoza-Alvarez, A., Guillen-Guio, B., Baez-Ortega, A., Hernandez-Perez, C., Lakhwani-Lakhwani, S., Maeso, MDC., Lorenzo-Salazar, J.M., Morales, M., and Flores, C. Whole-exome sequencing identifies somatic mutation associated with mortality in metastatic clear cell kidney carcinoma.
