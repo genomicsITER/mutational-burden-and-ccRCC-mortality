@@ -1,7 +1,7 @@
 # Description of VCF file
  
 
-_somatic.vcf_ file contains 9,220 somatic mutations for clear cell Renal Cell Carcinoma (ccRCC).
+_'somatic.vcf'_ file contains 9,220 somatic mutations for clear cell Renal Cell Carcinoma (ccRCC).
 
 Sample labels correspond to tumor tissue samples.
 
