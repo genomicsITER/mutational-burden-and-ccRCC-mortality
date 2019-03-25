@@ -6,5 +6,5 @@ somatic.vcf was the file were somatic mutations for clear cell Renal Cell Carcin
 In this file, users will be able to find the genotypes corresponding to each patient and to each reported somatic variant. The genotypes are indicated in 10 columns, where the header indicates the corresponding patient accompanied by T (tumor).
 
 
-## For more details, see the study article.
+## For more details, please see the study article.
 Mendoza-Alvarez, A., Guillen-Guio, B., Baez-Ortega, A., Hernandez-Perez, C., Lakhwani-Lakhwani, S., Maeso, MDC., Lorenzo-Salazar, J.M., Morales, M., and Flores, C. Whole-exome sequencing identifies somatic mutation associated with mortality in metastatic clear cell kidney carcinoma.
