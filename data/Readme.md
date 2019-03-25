@@ -1,7 +1,7 @@
 # Description of VCF file
  
 
-somatic.vcf was the file were somatic variation for clear cell Renal Cell Carcinoma (ccRCC) was reported. Paired samples from the tumour and normal (health) tissues of the same patient were sequenced with Ion Torrent platform. The germline variation was ruled out by compairing with tumour detected variation, obtaining a total of 9,220 SNVs with somatic origin. All the indels were discarded in the filtering processes. 
+somatic.vcf was the file were somatic mutations for clear cell Renal Cell Carcinoma (ccRCC) was reported. Paired samples from the tumour and normal (health) tissues of the same patient were sequenced with Ion Torrent platform. The germline variation was ruled out by compairing with tumour detected variation, obtaining a total of 9,220 SNVs with somatic origin. All the indels were discarded in the filtering processes. 
 
 
 ## For more details, see the study article.
