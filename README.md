@@ -21,4 +21,4 @@ Funding: This study was funded by Fundación CajaCanarias (SALUCAN11). AMA was s
 
 
 # For more details, please see the study article.
-Mendoza-Alvarez A, Guillen-Guio B, Baez-Ortega A, Hernandez-Perez C, Lakhwani-Lakhwani S, Maeso M-d-C, Lorenzo-Salazar JM, Morales M and Flores C (2019) Whole-Exome Sequencing Identifies Somatic Mutations Associated With Mortality in Metastatic Clear Cell Kidney Carcinoma. Front. Genet. 10:439. doi: 10.3389/fgene.2019.00439
+Mendoza-Alvarez A, Guillen-Guio B, Baez-Ortega A, Hernandez-Perez C, Lakhwani-Lakhwani S, Maeso M-d-C, Lorenzo-Salazar JM, Morales M and Flores C (2019) Whole-Exome Sequencing Identifies Somatic Mutations Associated With Mortality in Metastatic Clear Cell Kidney Carcinoma. Front. Genet. 10:439. [doi: 10.3389/fgene.2019.00439] (https://www.frontiersin.org/articles/10.3389/fgene.2019.00439/full)
